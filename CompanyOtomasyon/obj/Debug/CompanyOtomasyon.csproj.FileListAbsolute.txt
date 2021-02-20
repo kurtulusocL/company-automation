@@ -1,0 +1,72 @@
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\CompanyOtomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\CompanyOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ControlForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.PasswordAuth.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.RolAuth.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.CategoryAdd.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.CategoryForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.CustomerAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.CustomerEditForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.CustomerListForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.EmployeeAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.EmployeeEditForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.EmployeeListForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.PasswordForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.RoleForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\tr\CompanyOtomasyon.resources.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductEditForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductAddForm.tr.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\tr\CompanyOtomasyon.resources.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.OrderControlAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.OrderControlForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductControlAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductControlForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductListForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ShipperAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ShipperEditForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ShipperListForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.StockAddForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.StockForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.Core.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.Core.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\bin\Debug\Common.Logging.Core.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.ProductRepoForm.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Company Otomasyon\CompanyOtomasyon\obj\Debug\CompanyOtomasyon.Forms.OrderAddForm.resources
